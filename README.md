@@ -6,7 +6,6 @@
 
 ![bounce](assets/love-of-my-life.gif)
 
-
 ### Friends and I @Paris
 
 ![bounce](assets/france.JPG)
